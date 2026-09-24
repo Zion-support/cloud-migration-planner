@@ -1,22 +1,16 @@
 # Cloud Migration Planner
 
-AI cloud migration readiness and cost planning — Zion Tech Group.
+AI cloud migration readiness and cost planning.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://ziontechgroup.com/cloud-migration-planner/
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+## Features
+- Workload readiness assessment
+- Migration wave planning
+- Cost comparison on-prem vs cloud
 
-Related apps: [cloud-migration](https://github.com/Zion-support/cloud-migration) · [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) · [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Data Migration](https://github.com/Zion-support/zion-ai-data-migration) · [Cost Optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) · [Capacity Planner](https://github.com/Zion-support/zion-ai-capacity-planner) · [RTO/RPO Planner](https://github.com/Zion-support/rto-rpo-planner)
 
----
-
-## 🔗 Part of the Zion AI App Network
-
-- 🏠 [Master directory — zion-app-network](https://github.com/Zion-support/zion-app-network) · [Live hub](https://ziontechgroup.com/zion-app-network/)
-- 🧰 [Apps Showcase](https://github.com/Zion-support/zion-support.github.io/blob/main/APPS_SHOWCASE.md) · 📰 [Latest network news (Sep 2026)](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
-- 🚚 [Field Services & Logistics spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_FIELD_LOGISTICS.md) · 🧮 [Calculators & Tools spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CALCULATORS.md)
-- 🌐 [ziontechgroup.com](https://ziontechgroup.com/) · [Plans](https://ziontechgroup.com/plans/) · [Discovery $99](https://ziontechgroup.com/discovery/)
+© 2026 Zion Tech Group
